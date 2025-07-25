@@ -41,4 +41,4 @@ Replace the value of keyy with your NewsAPI key.
 # Run the assistant:
 
 ```bash
-python jarvis.py
+python main.py
