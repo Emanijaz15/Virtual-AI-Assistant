@@ -9,4 +9,4 @@ music={
     "talwinder":"https://www.youtube.com/watch?v=IltsOcCj1Ak&list=RDIltsOcCj1Ak&start_radio=1",
     "sapphire":"https://www.youtube.com/watch?v=JgDNFQ2RaLQ&list=RDJgDNFQ2RaLQ&start_radio=1",
     "bayyan":"https://www.youtube.com/watch?v=JVtKEX90SZ0&list=RDJVtKEX90SZ0&start_radio=1"
-}
+} 
