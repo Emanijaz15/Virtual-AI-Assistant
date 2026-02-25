@@ -6,7 +6,7 @@ music={
     "safar":"https://www.youtube.com/watch?v=LsUdoy7EH7M&list=RDLsUdoy7EH7M&start_radio=1",
     "par channa":"https://www.youtube.com/watch?v=TrPvQvbp3Cg&list=RDTrPvQvbp3Cg&start_radio=1",
     "heer":"https://www.youtube.com/watch?v=5R4UChPzRBc&list=RD5R4UChPzRBc&start_radio=1", 
-    "talwinder":"https://www.youtube.com/watch?v=IltsOcCj1Ak&list=RDIltsOcCj1Ak&start_radio=1",
+    "talwinder":"https://www.youtube.com/watch?v=IltsOcCj1Ak&list=RDIltsOcCj1Ak&start_radio=1",  
     "sapphire":"https://www.youtube.com/watch?v=JgDNFQ2RaLQ&list=RDJgDNFQ2RaLQ&start_radio=1",
     "bayyan":"https://www.youtube.com/watch?v=JVtKEX90SZ0&list=RDJVtKEX90SZ0&start_radio=1"
 } 
